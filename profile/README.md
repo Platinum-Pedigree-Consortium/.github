@@ -4,6 +4,10 @@ The Platinum Pedigree Consortium (PCC) is a collaborative project to create a co
 
 ## Consortium Members
 
+<details>
+  <summary>Show all</summary>
+  
+
 | Name                 	| Affiliation(s)                                                     	|
 |----------------------	|--------------------------------------------------------------------	|
 | David Porubsky       	| University of Washington                                           	|
@@ -61,3 +65,5 @@ The Platinum Pedigree Consortium (PCC) is a collaborative project to create a co
 | Peter M. Lansdorp    	| BC Cancer Agency; University of British Columbia                   	|
 |                      	|                                                                    	|
 | Shawn E. Levy        	| Element Biosciences                                                	|
+
+</details>
