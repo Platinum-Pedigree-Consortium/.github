@@ -2,6 +2,14 @@
 
 The Platinum Pedigree Consortium (PCC) is a collaborative project to create a comprehensive reference for human genetic variation using a four-generation, 28-member family (CEPH 1463). We employed five different short and long-read sequencing technologies to generate phased assemblies and characterize both inherited and _de novo_ variation, including at some of the most difficult to genotype genomic regions such as tandem repeats, centromeres, and the Y chromosome. This extensive "truth set" is publicly available and can be used to test and benchmark new algorithms and technologies to better understand human genetic variation.
 
+## Publications
+
+_Porubsky et. al._
+[A familial, telomere-to-telomere reference for human de novo mutation and recombination from a four-generation pedigree](https://pubmed.ncbi.nlm.nih.gov/39149261/)
+
+_Kronenberg et. al._
+[The Platinum Pedigree: A long-read benchmark for genetic variants](https://www.biorxiv.org/content/10.1101/2024.10.02.616333v1)
+
 ## Consortium Members
 
 <details>
