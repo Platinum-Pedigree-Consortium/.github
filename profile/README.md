@@ -75,3 +75,8 @@ _Kronenberg et. al._ _Nature Methods_, 2025
 | Shawn E. Levy        	| Element Biosciences                                                	|
 
 </details>
+
+## Datasets
+
+[GitHub dataset page](https://github.com/Platinum-Pedigree-Consortium/Platinum-Pedigree-Datasets)
+
