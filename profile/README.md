@@ -4,11 +4,11 @@ The Platinum Pedigree Consortium (PCC) is a collaborative project to create a co
 
 ## Publications
 
-_Porubsky et. al._
+_Porubsky et. al._ _Nature_, 2025
 [A familial, telomere-to-telomere reference for human de novo mutation and recombination from a four-generation pedigree](https://pubmed.ncbi.nlm.nih.gov/39149261/)
 
-_Kronenberg et. al._
-[The Platinum Pedigree: A long-read benchmark for genetic variants](https://www.biorxiv.org/content/10.1101/2024.10.02.616333v1)
+_Kronenberg et. al._ _Nature Methods_, 2025
+[The Platinum Pedigree: A long-read benchmark for genetic variants]([https://www.biorxiv.org/content/10.1101/2024.10.02.616333v1](https://www.nature.com/articles/s41592-025-02750-y))
 
 ## Consortium Members
 
